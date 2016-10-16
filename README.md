@@ -6,7 +6,7 @@ Because spotify has started giving out ads in India too. This will very loosley 
 
 Python Libs: dbus, subprocess, time
 
-These should be pre-installed in most linux systems.
+These should already be installed out of the box in most linux systems.
 
 
 # Usage
